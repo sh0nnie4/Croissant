@@ -1,0 +1,17 @@
+body {
+  background: sandybrown;
+}
+h1 {
+  text-align: center;
+  font-size: 80px;
+}
+h2 {
+  text-align: center;
+}
+span {
+  margin: 220px 220px;
+}
+h2 img {
+  border: 20px black;
+  max-width: 700px;
+}
