@@ -8,10 +8,18 @@ h1 {
 h2 {
   text-align: center;
 }
-span {
-  margin: 220px 220px;
+footer {
+  text-align: center;
+}
+footer a {
+  margin: 0 10px;
+  color: darkgreen;
 }
 h2 img {
   border: 20px black;
   max-width: 700px;
+}
+p {
+  text-align: center;
+  font-size: 25px;
 }
